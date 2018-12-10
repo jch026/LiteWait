@@ -1,0 +1,384 @@
+{
+    "KFC" :{
+    "CurrentWaitingTime" : {
+      "timeUpdated" : 98234792,
+      "waitingTime" : 10
+    },
+    "WeekdayDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 1
+      },
+      "Dinner" : {
+        "waitingTime" : 5
+      },
+      "Lunch" : {
+        "waitingTime" : 10
+      },
+      "Morning" : {
+        "waitingTime" : 1
+      }
+    },
+    "WeekendDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 5
+      },
+      "Dinner" : {
+        "waitingTime" : 15
+      },
+      "Lunch" : {
+        "waitingTime" : 10
+      },
+      "Morning" : {
+        "waitingTime" : 1
+      }
+    },
+    "address" : "25 Morse Avenue, Sunnyvale",
+    "cuisine" : "American",
+    "id" : 9988,
+    "imageURL" : "kfc.com",
+    "locationx" : 99.11212,
+    "locationy" : 66.87870,
+    "name" : "Kentucky Fried Chicken"
+  },
+
+
+  "OliveGarden" :{
+    "CurrentWaitingTime" : {
+      "timeUpdated" : 98234792,
+      "waitingTime" : 10
+    },
+    "WeekdayDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 1
+      },
+      "Dinner" : {
+        "waitingTime" : 4
+      },
+      "Lunch" : {
+        "waitingTime" : 7
+      },
+      "Morning" : {
+        "waitingTime" : 2
+      }
+    },
+    "WeekendDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 4
+      },
+      "Dinner" : {
+        "waitingTime" : 13
+      },
+      "Lunch" : {
+        "waitingTime" : 7
+      },
+      "Morning" : {
+        "waitingTime" : 1
+      }
+    },
+    "address" : "15 Morse Avenue, Sunnyvale",
+    "cuisine" : "American",
+    "id" : 5622,
+    "imageURL" : "oliveGarden.com",
+    "locationx" : 88.11212,
+    "locationy" : 66.87873,
+    "name" : "Olive Garden"
+  },
+
+  "KabulBiriyani" :{
+    "CurrentWaitingTime" : {
+      "timeUpdated" : 98234792,
+      "waitingTime" : 40
+    },
+    "WeekdayDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 1
+      },
+      "Dinner" : {
+        "waitingTime" : 5
+      },
+      "Lunch" : {
+        "waitingTime" : 8
+      },
+      "Morning" : {
+        "waitingTime" : 2
+      }
+    },
+    "WeekendDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 5
+      },
+      "Dinner" : {
+        "waitingTime" : 14
+      },
+      "Lunch" : {
+        "waitingTime" : 11
+      },
+      "Morning" : {
+        "waitingTime" : 4
+      }
+    },
+    "address" : "15 Jack Avenue, San Jose",
+    "cuisine" : "Pakistani",
+    "id" : 2898,
+    "imageURL" : "facebook.com",
+    "locationx" : 88.11212,
+    "locationy" : 87.87872,
+    "name" : "Kabul Biriyani"
+  },
+
+  "TouchofThai" :{
+    "CurrentWaitingTime" : {
+      "timeUpdated" : 98234792,
+      "waitingTime" : 30
+    },
+    "WeekdayDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 3
+      },
+      "Dinner" : {
+        "waitingTime" : 8
+      },
+      "Lunch" : {
+        "waitingTime" : 9
+      },
+      "Morning" : {
+        "waitingTime" : 7
+      }
+    },
+    "WeekendDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 2
+      },
+      "Dinner" : {
+        "waitingTime" : 11
+      },
+      "Lunch" : {
+        "waitingTime" : 19
+      },
+      "Morning" : {
+        "waitingTime" : 22
+      }
+    },
+    "address" : "15 Bangkok Avenue, Sunnyvale",
+    "cuisine" : "Thai",
+    "id" : 1277,
+    "imageURL" : "thai.com",
+    "locationx" : 96.11212,
+    "locationy" : 65.87871,
+    "name" : "Touch of Thai"
+  },
+
+  "RomaItalia" :{
+    "CurrentWaitingTime" : {
+      "timeUpdated" : 98234792,
+      "waitingTime" : 8
+    },
+    "WeekdayDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 2
+      },
+      "Dinner" : {
+        "waitingTime" : 5
+      },
+      "Lunch" : {
+        "waitingTime" : 9
+      },
+      "Morning" : {
+        "waitingTime" : 1
+      }
+    },
+    "WeekendDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 5
+      },
+      "Dinner" : {
+        "waitingTime" : 11
+      },
+      "Lunch" : {
+        "waitingTime" : 6
+      },
+      "Morning" : {
+        "waitingTime" : 1
+      }
+    },
+    "address" : "5 Castro Avenue, Mountain View",
+    "cuisine" : "Italian",
+    "id" : 7121,
+    "imageURL" : "yuki.com",
+    "locationx" : 91.34511,
+    "locationy" : 66.22111,
+    "name" : "Roma Italia"
+  },
+
+  "Pizza Hut" :{
+
+    "CurrentWaitingTime" : {
+      "timeUpdated" : 982429,
+      "waitingTime" : 9
+    },
+    "WeekdayDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 2
+      },
+      "Dinner" : {
+        "waitingTime" : 8
+      },
+      "Lunch" : {
+        "waitingTime" : 6
+      },
+      "Morning" : {
+        "waitingTime" : 1
+      }
+    },
+    "WeekendDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 6
+      },
+      "Dinner" : {
+        "waitingTime" : 4
+      },
+      "Lunch" : {
+        "waitingTime" : 9
+      },
+      "Morning" : {
+        "waitingTime" : 1
+      }
+    },
+    "address" : "25 Joe Avenue, San Jose",
+    "cuisine" : "American",
+    "id" : 6622,
+    "imageURL" : "facebook.com",
+    "locationx" : 99.12112,
+    "locationy" : 62.87387,
+    "name" : "Pizza Hut"
+  },
+
+
+  "BawarchiIndianRestaurant" :{
+    "CurrentWaitingTime" : {
+      "timeUpdated" : 663636,
+      "waitingTime" : 6
+    },
+    "WeekdayDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 1
+      },
+      "Dinner" : {
+        "waitingTime" : 5
+      },
+      "Lunch" : {
+        "waitingTime" : 7
+      },
+      "Morning" : {
+        "waitingTime" : 1
+      }
+    },
+    "WeekendDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 4
+      },
+      "Dinner" : {
+        "waitingTime" : 11
+      },
+      "Lunch" : {
+        "waitingTime" : 8
+      },
+      "Morning" : {
+        "waitingTime" : 1
+      }
+    },
+    "address" : "89 Facebook Road, Mountain View",
+    "cuisine" : "Indian",
+    "id" : 1122,
+    "imageURL" : "facebook.com",
+    "locationx" : 91.11219,
+    "locationy" : 69.47870,
+    "name" : "Bawarchi Indian Restaurant"
+  },
+
+
+  "Little Sheep" :{
+    "CurrentWaitingTime" : {
+      "timeUpdated" : 989898,
+      "waitingTime" : 8
+    },
+    "WeekdayDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 1
+      },
+      "Dinner" : {
+        "waitingTime" : 4
+      },
+      "Lunch" : {
+        "waitingTime" : 8
+      },
+      "Morning" : {
+        "waitingTime" : 1
+      }
+    },
+    "WeekendDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 3
+      },
+      "Dinner" : {
+        "waitingTime" : 13
+      },
+      "Lunch" : {
+        "waitingTime" : 10
+      },
+      "Morning" : {
+        "waitingTime" : 1
+      }
+    },
+    "address" : "14 Morse Avenue, Sunnyvale",
+    "cuisine" : "Mongolian",
+    "id" : 8899,
+    "imageURL" : "little.com",
+    "locationx" : "88.11212",
+    "locationy" : "61.8787",
+    "name" : "Little Sheep"
+  },
+
+
+  "JoySushi" :{
+    "CurrentWaitingTime" : {
+      "timeUpdated" : 989798,
+      "waitingTime" : 11
+    },
+    "WeekdayDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 2
+      },
+      "Dinner" : {
+        "waitingTime" : 6
+      },
+      "Lunch" : {
+        "waitingTime" : 1
+      },
+      "Morning" : {
+        "waitingTime" : 9
+      }
+    },
+    "WeekendDefault" : {
+      "Afternoon" : {
+        "waitingTime" : 6
+      },
+      "Dinner" : {
+        "waitingTime" : 14
+      },
+      "Lunch" : {
+        "waitingTime" : 11
+      },
+      "Morning" : {
+        "waitingTime" : 2
+      }
+    },
+    "address" : "89 Moffett Avenue, Santa Clara",
+    "cuisine" : "Japanese",
+    "id" : 4688,
+    "imageURL" : "amazon.com",
+    "locationx" : 99.11212,
+    "locationy" : 69.87871,
+    "name" : "Joy Sushi"
+  }
+}

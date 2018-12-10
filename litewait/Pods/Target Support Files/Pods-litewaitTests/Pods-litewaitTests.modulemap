@@ -1,0 +1,6 @@
+framework module Pods_litewaitTests {
+  umbrella header "Pods-litewaitTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
